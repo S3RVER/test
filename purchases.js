@@ -1,1 +1,1 @@
-{"name":"dasdas"}
+[{"name":"dasdas"}]
